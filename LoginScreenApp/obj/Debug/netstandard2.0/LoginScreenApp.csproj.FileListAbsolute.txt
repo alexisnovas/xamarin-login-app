@@ -1,0 +1,15 @@
+D:\Solutions 2.0\xamarin_projects\LoginScreenApp\LoginScreenApp\bin\Debug\netstandard2.0\LoginScreenApp.deps.json
+D:\Solutions 2.0\xamarin_projects\LoginScreenApp\LoginScreenApp\bin\Debug\netstandard2.0\LoginScreenApp.dll
+D:\Solutions 2.0\xamarin_projects\LoginScreenApp\LoginScreenApp\bin\Debug\netstandard2.0\ref\LoginScreenApp.dll
+D:\Solutions 2.0\xamarin_projects\LoginScreenApp\LoginScreenApp\bin\Debug\netstandard2.0\LoginScreenApp.pdb
+D:\Solutions 2.0\xamarin_projects\LoginScreenApp\LoginScreenApp\obj\Debug\netstandard2.0\LoginScreenApp.csprojAssemblyReference.cache
+D:\Solutions 2.0\xamarin_projects\LoginScreenApp\LoginScreenApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Solutions 2.0\xamarin_projects\LoginScreenApp\LoginScreenApp\obj\Debug\netstandard2.0\LoginPage.xaml.g.cs
+D:\Solutions 2.0\xamarin_projects\LoginScreenApp\LoginScreenApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Solutions 2.0\xamarin_projects\LoginScreenApp\LoginScreenApp\obj\Debug\netstandard2.0\LoginScreenApp.AssemblyInfoInputs.cache
+D:\Solutions 2.0\xamarin_projects\LoginScreenApp\LoginScreenApp\obj\Debug\netstandard2.0\LoginScreenApp.AssemblyInfo.cs
+D:\Solutions 2.0\xamarin_projects\LoginScreenApp\LoginScreenApp\obj\Debug\netstandard2.0\LoginScreenApp.csproj.CoreCompileInputs.cache
+D:\Solutions 2.0\xamarin_projects\LoginScreenApp\LoginScreenApp\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Solutions 2.0\xamarin_projects\LoginScreenApp\LoginScreenApp\obj\Debug\netstandard2.0\LoginScreenApp.dll
+D:\Solutions 2.0\xamarin_projects\LoginScreenApp\LoginScreenApp\obj\Debug\netstandard2.0\ref\LoginScreenApp.dll
+D:\Solutions 2.0\xamarin_projects\LoginScreenApp\LoginScreenApp\obj\Debug\netstandard2.0\LoginScreenApp.pdb

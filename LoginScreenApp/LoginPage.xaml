@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="LoginScreenApp.LoginPage"
+             BackgroundColor="#edf2fb">
+    <ContentPage.Content>
+        <StackLayout VerticalOptions="Center" Padding="40" HorizontalOptions="FillAndExpand">
+            <Image Source="intecLogo.png" WidthRequest="170" HeightRequest="170"></Image>
+            <Entry x:Name="txtFieldUsername" Placeholder ="Username" TextColor="Black" PlaceholderColor="LightSlateGray"></Entry>
+            <Entry x:Name="txtFieldPassword" Placeholder ="Password"  IsPassword="True" TextColor="Black" PlaceholderColor="LightSlateGray"></Entry>
+            <Button
+                Text="Login"
+                TextColor="Black"
+                BackgroundColor="Transparent"
+                CornerRadius="50"
+                BorderColor="DarkRed"
+                BorderWidth="2"
+                Clicked="ButtonClicked"    
+             ></Button>
+            <Label HorizontalOptions="Center">
+                <Label.FormattedText>
+                    <FormattedString>
+                        <Span Text="Don't have an account yet? " TextColor="LightSlateGray"/>
+                        <Span Text="Register" TextColor="LightSlateGray" TextDecorations="Underline" FontAttributes="Bold"/>
+                    </FormattedString>
+                </Label.FormattedText>
+                <Label.GestureRecognizers>
+                    <TapGestureRecognizer Tapped="TapGestureRecognizerTapped"/>
+                </Label.GestureRecognizers>
+            </Label>
+            
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "iPlrcBLFb5XxjMXx1YFT1wRLdRTqpxfZ2+rgzs9lvlv14ewpQT2NgXljwUCAZ+PNkbR4zVBsQ5GQTULeCJshIw==",
+  "success": true,
+  "projectFilePath": "D:\\Solutions 2.0\\xamarin_projects\\LoginScreenApp\\LoginScreenApp\\LoginScreenApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\alexi\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\alexi\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.3.1\\xamarin.essentials.1.3.1.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.5.0.495\\xamarin.forms.4.5.0.495.nupkg.sha512"
+  ],
+  "logs": []
+}
