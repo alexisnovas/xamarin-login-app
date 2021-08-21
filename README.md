@@ -16,6 +16,6 @@ Login App developed using Xamarin Forms for educational purposes.
 
 ![LoginScreen 5](https://user-images.githubusercontent.com/47201459/130310369-075c5e0e-bf74-47da-82ae-af9e83ec3dec.PNG)
 
-### Code
+### Interactions with alerts
 
 ![LoginScreenCode](https://user-images.githubusercontent.com/47201459/130310384-f9dad0aa-c8ed-448e-a243-6712978d52fe.PNG)
